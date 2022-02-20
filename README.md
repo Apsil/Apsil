@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Apsil
+- 👀 I’m interested in C++, R, Python 3 programming
