@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Apsil
-- 👀 I’m interested in C++, R, Python 3 programming
+- 🖥️ Hi, I’m @Apsil
+- 🖥️ I’m interested in C++, R, Python 3 programming
+- 🖥️ R software interface developer
